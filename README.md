@@ -15,7 +15,7 @@
 
 ### Целевая аудитория
 
-Продукт рассчитан на СНГ рынок, поэтому рассмотрим аудиторию подробнее.
+Продукт рассчитан на СНГ рынок, поэтому рассмотрим региональную аудиторию подробнее.
 
 #### Объем трафика
 
@@ -37,4 +37,4 @@
 
 ## Список источников <a name="sources"></a>
 
-- ### [Анализ веб-сайта Wikipedia](https://pro.similarweb.com/?_gl=1*1vcnwco*_ga*MTMwMjg4OTQ2OS4xNzA4MjQzODc1*_ga_V5DSP51YD0*MTcwODI0Mzg3NS4xLjEuMTcwODI0NTM1OS4xNy4wLjA.#/digitalsuite/websiteanalysis/overview/website-performance/*/999/3m?webSource=Total&key=ru.wikipedia.org)
+- ### [Анализ веб-сайта Wikipedia](https://pro.similarweb.com/?ps_partner_key=YWxsYWtob3ppdHNrYXlhOTEzMw&sid=65d2406ca3d499000113eaf4&sid2=15740&ps_xid=pzhLUQ8qScGRb1&gsxid=pzhLUQ8qScGRb1&gspk=YWxsYWtob3ppdHNrYXlhOTEzMw#/digitalsuite/websiteanalysis/overview/website-performance/*/999/3m?webSource=Total&key=ru.wikipedia.org)
