@@ -20,6 +20,7 @@
 - MAU: 133M
 - DAU: 4.5M
 - Среднее время на сайте: 00:04:44
+- Среднее количество посещенных страниц за сессию: 3.45
 
 #### Распределение аудитории
 
@@ -35,4 +36,4 @@
 
 ## Список источников <a name="sources"></a>
 
-- ### [Анализ веб-сайта Wikipedia](https://pro.similarweb.com/?ps_partner_key=YWxsYWtob3ppdHNrYXlhOTEzMw&sid=65d2406ca3d499000113eaf4&sid2=15740&ps_xid=pzhLUQ8qScGRb1&gsxid=pzhLUQ8qScGRb1&gspk=YWxsYWtob3ppdHNrYXlhOTEzMw#/digitalsuite/websiteanalysis/overview/website-performance/*/999/3m?webSource=Total&key=ru.wikipedia.org)
+- ### [Анализ веб-сайта Wikipedia](https://www.similarweb.com/ru/website/ru.wikipedia.org/)
