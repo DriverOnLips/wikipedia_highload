@@ -497,8 +497,8 @@ elasticsearch ?
 Для шардирования выберем таблицы, на которые приходится основная нагрузка, а именно таблицы:
 
 - article
-- edit
-- comment
+- edit по article_id
+- comment по article_id
 
 ### Клиентские библиотеки
 
