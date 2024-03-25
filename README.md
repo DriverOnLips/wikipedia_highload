@@ -488,8 +488,11 @@ elasticsearch ?
 ### Индексы
 
 `user`: hash по user_id
+
 `comment`: hash по comment_id
+
 `article`: hash по article_id
+
 `edit`: hash по edit_id
 
 ### Шардирование
