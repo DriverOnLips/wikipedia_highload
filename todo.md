@@ -28,6 +28,6 @@
 
 ## Часть 6
 
-- elasticsearch и почему
-- почему ClickHouse
-- доделать
+- ~~elasticsearch и почему~~
+- ~~почему ClickHouse~~
+- ~~доделать~~
