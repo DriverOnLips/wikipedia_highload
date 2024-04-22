@@ -646,6 +646,8 @@ Autocomplete предсказывает продолжение текста ил
 
 ## 10. Схема проекта <a name="10_part"></a>
 
+<img src='src/img/project_schema.drawio.png' >
+
 ---
 
 ## 11. Расчет ресурсов <a name="11_part"></a>
